@@ -2,6 +2,10 @@
 
 Changelog
 ------------
+v1.4.4.7 27 Dec 2025
+* Use Dokany 2.3 (2.3.1.1000)
+* Build with Visual Studio 2026 Community Edition 
+
 v1.4.4.6 21 Apr 2025
 * Use Dokany 2.3 (2.3.0.1000)
 * Fix big with cppcryptfsctl and Unicode file names.

@@ -51,8 +51,8 @@ END
 //
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 1,4,4,6
- PRODUCTVERSION 1,4,4,6
+ FILEVERSION 1,4,4,7
+ PRODUCTVERSION 1,4,4,7
  FILEFLAGSMASK 0x3fL
 #ifdef _DEBUG
  FILEFLAGS 0x1L
@@ -68,13 +68,13 @@ BEGIN
         BLOCK "040904b0"
         BEGIN
             VALUE "CompanyName", "Bailey Brown"
-            #include "gitversion.rc2"
-            VALUE "FileVersion", "1.4.4.6"
+            VALUE "FileDescription", "cppcryptfsctl build baa5638"
+            VALUE "FileVersion", "1.4.4.7"
             VALUE "InternalName", "cppcryptfsctl.exe"
             VALUE "LegalCopyright", "Copyright (C) 2020-2025 Bailey Brown. All rights reserved."
             VALUE "OriginalFilename", "cppcryptfsctl.exe"
             VALUE "ProductName", "cppcryptfsctl"
-            VALUE "ProductVersion", "1.4.4.6"
+            VALUE "ProductVersion", "1.4.4.7"
         END
     END
     BLOCK "VarFileInfo"
